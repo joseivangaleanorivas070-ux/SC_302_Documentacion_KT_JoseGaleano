@@ -1,1 +1,4 @@
-# SC_302_Documentacion_KT_JoseGaleano
+# SC\_302\_Documentacion\_KT\_JoseGaleano
+
+Esta es mi primera práctica con GitHub.
+
